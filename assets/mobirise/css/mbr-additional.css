@@ -1423,7 +1423,7 @@ a {
 }
 .cid-tMlEXTHLbS .mbr-text,
 .cid-tMlEXTHLbS .item .mbr-section-btn {
-  text-align: left;
+  text-align: center;
 }
 .cid-tMlEXTHLbS .content-head {
   max-width: 800px;
@@ -1483,4 +1483,8 @@ a {
 }
 .cid-u1JPr7d8aL P {
   color: #2b7a69;
+  text-align: center;
+}
+.cid-u1JPr7d8aL .card-title {
+  text-align: center;
 }
